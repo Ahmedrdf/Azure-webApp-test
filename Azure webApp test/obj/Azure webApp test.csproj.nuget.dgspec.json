@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ahmed\\source\\repos\\Azure webApp test\\Azure webApp test\\Azure webApp test.csproj": {}
+    "C:\\GitAhmed\\Azure-webApp-test\\Azure webApp test\\Azure webApp test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ahmed\\source\\repos\\Azure webApp test\\Azure webApp test\\Azure webApp test.csproj": {
+    "C:\\GitAhmed\\Azure-webApp-test\\Azure webApp test\\Azure webApp test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ahmed\\source\\repos\\Azure webApp test\\Azure webApp test\\Azure webApp test.csproj",
+        "projectUniqueName": "C:\\GitAhmed\\Azure-webApp-test\\Azure webApp test\\Azure webApp test.csproj",
         "projectName": "Azure webApp test",
-        "projectPath": "C:\\Users\\ahmed\\source\\repos\\Azure webApp test\\Azure webApp test\\Azure webApp test.csproj",
+        "projectPath": "C:\\GitAhmed\\Azure-webApp-test\\Azure webApp test\\Azure webApp test.csproj",
         "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ahmed\\source\\repos\\Azure webApp test\\Azure webApp test\\obj\\",
+        "outputPath": "C:\\GitAhmed\\Azure-webApp-test\\Azure webApp test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,7 +27,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -39,7 +38,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
@@ -56,6 +54,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -64,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

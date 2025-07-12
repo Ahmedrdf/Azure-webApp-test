@@ -36,3 +36,40 @@ C:\Users\ahmed\source\repos\Azure webApp test\Azure webApp test\obj\Debug\netcor
 C:\Users\ahmed\source\repos\Azure webApp test\Azure webApp test\obj\Debug\netcoreapp3.1\Azure webApp test.csproj.AssemblyReference.cache
 C:\Users\ahmed\source\repos\Azure webApp test\Azure webApp test\obj\Debug\netcoreapp3.1\Azure webApp test.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ahmed\source\repos\Azure webApp test\Azure webApp test\obj\Debug\netcoreapp3.1\scopedcss\bundle\Azure webApp test.styles.css
+C:\GitAhmed\Azure-webApp-test\Azure webApp test\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\GitAhmed\Azure-webApp-test\Azure webApp test\bin\Debug\netcoreapp3.1\appsettings.json
+C:\GitAhmed\Azure-webApp-test\Azure webApp test\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\GitAhmed\Azure-webApp-test\Azure webApp test\bin\Debug\netcoreapp3.1\Azure webApp test.exe
+C:\GitAhmed\Azure-webApp-test\Azure webApp test\bin\Debug\netcoreapp3.1\Azure webApp test.deps.json
+C:\GitAhmed\Azure-webApp-test\Azure webApp test\bin\Debug\netcoreapp3.1\Azure webApp test.runtimeconfig.json
+C:\GitAhmed\Azure-webApp-test\Azure webApp test\bin\Debug\netcoreapp3.1\Azure webApp test.runtimeconfig.dev.json
+C:\GitAhmed\Azure-webApp-test\Azure webApp test\bin\Debug\netcoreapp3.1\Azure webApp test.dll
+C:\GitAhmed\Azure-webApp-test\Azure webApp test\bin\Debug\netcoreapp3.1\Azure webApp test.pdb
+C:\GitAhmed\Azure-webApp-test\Azure webApp test\bin\Debug\netcoreapp3.1\Azure webApp test.Views.dll
+C:\GitAhmed\Azure-webApp-test\Azure webApp test\bin\Debug\netcoreapp3.1\Azure webApp test.Views.pdb
+C:\GitAhmed\Azure-webApp-test\Azure webApp test\obj\Debug\netcoreapp3.1\Azure webApp test.csprojAssemblyReference.cache
+C:\GitAhmed\Azure-webApp-test\Azure webApp test\obj\Debug\netcoreapp3.1\Azure webApp test.AssemblyInfoInputs.cache
+C:\GitAhmed\Azure-webApp-test\Azure webApp test\obj\Debug\netcoreapp3.1\Azure webApp test.AssemblyInfo.cs
+C:\GitAhmed\Azure-webApp-test\Azure webApp test\obj\Debug\netcoreapp3.1\Azure webApp test.csproj.CoreCompileInputs.cache
+C:\GitAhmed\Azure-webApp-test\Azure webApp test\obj\Debug\netcoreapp3.1\Azure webApp test.MvcApplicationPartsAssemblyInfo.cache
+C:\GitAhmed\Azure-webApp-test\Azure webApp test\obj\Debug\netcoreapp3.1\Azure webApp test.RazorAssemblyInfo.cache
+C:\GitAhmed\Azure-webApp-test\Azure webApp test\obj\Debug\netcoreapp3.1\Azure webApp test.RazorAssemblyInfo.cs
+C:\GitAhmed\Azure-webApp-test\Azure webApp test\obj\Debug\netcoreapp3.1\Azure webApp test.TagHelpers.input.cache
+C:\GitAhmed\Azure-webApp-test\Azure webApp test\obj\Debug\netcoreapp3.1\Azure webApp test.TagHelpers.output.cache
+C:\GitAhmed\Azure-webApp-test\Azure webApp test\obj\Debug\netcoreapp3.1\Azure webApp test.RazorCoreGenerate.cache
+C:\GitAhmed\Azure-webApp-test\Azure webApp test\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\GitAhmed\Azure-webApp-test\Azure webApp test\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\GitAhmed\Azure-webApp-test\Azure webApp test\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\GitAhmed\Azure-webApp-test\Azure webApp test\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\GitAhmed\Azure-webApp-test\Azure webApp test\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\GitAhmed\Azure-webApp-test\Azure webApp test\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\GitAhmed\Azure-webApp-test\Azure webApp test\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\GitAhmed\Azure-webApp-test\Azure webApp test\obj\Debug\netcoreapp3.1\Azure webApp test.RazorTargetAssemblyInfo.cache
+C:\GitAhmed\Azure-webApp-test\Azure webApp test\obj\Debug\netcoreapp3.1\Azure webApp test.RazorTargetAssemblyInfo.cs
+C:\GitAhmed\Azure-webApp-test\Azure webApp test\obj\Debug\netcoreapp3.1\Azure webApp test.Views.pdb
+C:\GitAhmed\Azure-webApp-test\Azure webApp test\obj\Debug\netcoreapp3.1\staticwebassets\Azure webApp test.StaticWebAssets.Manifest.cache
+C:\GitAhmed\Azure-webApp-test\Azure webApp test\obj\Debug\netcoreapp3.1\staticwebassets\Azure webApp test.StaticWebAssets.xml
+C:\GitAhmed\Azure-webApp-test\Azure webApp test\obj\Debug\netcoreapp3.1\Azure webApp test.dll
+C:\GitAhmed\Azure-webApp-test\Azure webApp test\obj\Debug\netcoreapp3.1\Azure webApp test.pdb
+C:\GitAhmed\Azure-webApp-test\Azure webApp test\obj\Debug\netcoreapp3.1\Azure webApp test.genruntimeconfig.cache
+C:\GitAhmed\Azure-webApp-test\Azure webApp test\obj\Debug\netcoreapp3.1\Azure webApp test.csproj.CopyComplete

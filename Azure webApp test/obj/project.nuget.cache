@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "QmtiyH0s3cmCR3eI72paIigr/wFze4pxk4bMv30SXnKbtIRj6ibLrjBUZqiAyreraVyzVM0WGr+DnyRF73dnUQ==",
+  "dgSpecHash": "oZoSh2WvfK14OCzB4LkF1ebfyU78IfIuHM6Y1O3JTHY3Ls5oOOtzeDJXZzCWz50yXlnLHxAdRyNaW2P9iwxuxQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ahmed\\source\\repos\\Azure webApp test\\Azure webApp test\\Azure webApp test.csproj",
+  "projectFilePath": "C:\\GitAhmed\\Azure-webApp-test\\Azure webApp test\\Azure webApp test.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ahmed\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+    "C:\\Users\\ahmed\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
+    "C:\\Users\\ahmed\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
   "logs": []
 }
